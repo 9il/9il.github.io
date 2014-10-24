@@ -1,5 +1,3 @@
-Ilya Yaroshenko [github.io]
-=============
 ##Public repositories
 
 ###[Atmosphere GM](http://9il.github.io/atmosphere_gm)
