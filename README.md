@@ -1,15 +1,16 @@
 #Public repositories
 
 ## [Atmosphere GM](http://9il.github.io/atmosphere_gm)
-Statistical package.
+Atmosphere contains Maximum Likelihood Estimation algorithms, density functions, random observations generators, etc.
 
-Atmosphere GM contains an experimental algorithms for new generation of likelihood maximization methods. The goal of this library is to create a reliable and simple in use technology that can be used by software engineers. Package is growing step by step with mathematical publications.
+### Travis-CI Status
 
-# Travis-CI Status
-+ [![Build Status](https://travis-ci.org/9il/atmosphere_gm.svg)](https://travis-ci.org/9il/atmosphere_gm) - [Atmosphere GM](https://travis-ci.org/9il/atmosphere_gm)
+[![Join the chat at https://gitter.im/9il/atmosphere](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/9il/atmosphere?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Coverage Status](https://coveralls.io/repos/9il/atmosphere/badge.svg?branch=master)](https://coveralls.io/r/9il/atmosphere?branch=master)
++ [![Build Status](https://travis-ci.org/9il/atmosphere.svg)](https://travis-ci.org/9il/atmosphere) - [Atmosphere](https://travis-ci.org/9il/atmosphere)
 + [![Build Status](https://travis-ci.org/9il/atmosphere_gm_test.svg)](https://travis-ci.org/9il/atmosphere_gm_test) - [Atmosphere GM Test](https://travis-ci.org/9il/atmosphere_gm_test)
 
-#Features
+### Features
  1. Normal variance-mean mixtures
   + Generalized hyperbolic distribution
   + Generalized variance-gamma distribution
@@ -22,9 +23,10 @@ Atmosphere GM contains an experimental algorithms for new generation of likeliho
   + Cumulative functions
   + Quantiles
   + Random observations generators
+  + Maximum Likelihood Estimations (MLE)
 
-<img src="http://9il.github.io/atmosphere_gm/view/images/GHyp_0148.svg" alt="Generalized hyperbolic distribution" width="250" />
-<img src="http://9il.github.io/atmosphere_gm/view/images/GV-gamma_0120.svg" alt="Generalized variance-gamma distribution" width="250" />
+<img src="http://9il.github.io/atmosphere/doc/images/GHyp_0148.svg" alt="Generalized hyperbolic distribution" width="280" />
+<img src="http://9il.github.io/atmosphere/doc/images/GV-gamma_0120.svg" alt="Generalized variance-gamma distribution" width="280" />
 
 ##[bessel](https://github.com/9il/bessel)
 bessel[IJKY] functions ported from [R](http://www.r-project.org).
