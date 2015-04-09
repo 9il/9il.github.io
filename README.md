@@ -1,6 +1,6 @@
 #Public repositories
 
-## [Atmosphere GM](http://9il.github.io/atmosphere_gm)
+## [Atmosphere](http://9il.github.io/atmosphere)
 Atmosphere contains Maximum Likelihood Estimation algorithms, density functions, random observations generators, etc.
 
 ### Travis-CI Status
